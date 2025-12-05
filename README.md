@@ -19,5 +19,22 @@ This repository contains various projects completed during my Lexicon studies.
 
 ---
 
+### [AssetTracking](./AssetTracking/)
+**Asset Tracking System** - A comprehensive console application for tracking IT assets across multiple office locations with:
+
+- Object-oriented design with inheritance hierarchy (Asset → Computer/Phone → specific brands)
+- Abstract base classes and polymorphism for extensible asset types
+- Multi-currency support with automatic price conversion (USD, EUR, SEK)
+- Office location management with currency-specific pricing
+- LINQ operations for sorting assets by purchase date and end-of-life calculations
+- Input validation with robust error handling and user-friendly prompts
+- Color-coded console output for enhanced user experience
+- Automatic asset lifecycle tracking (3-year depreciation model)
+
+**Technologies:** C#, .NET 8, OOP (Inheritance, Polymorphism, Abstraction), LINQ
+**Completed:** December 2025
+
+---
+
 ## Future Projects
 Additional projects will be added as coursework progresses.
