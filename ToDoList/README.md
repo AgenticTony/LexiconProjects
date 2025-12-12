@@ -8,8 +8,8 @@ A feature-rich console-based todo list application built in C# demonstrating sol
 
 ### Core Requirements ✅
 
-| Requirement | Implementation | Status |
-|-------------|----------------|---------|
+| Requirement | Implementation | 
+|-------------|----------------|
 | **Model a task with title, due date, status, and project** | `TodoTask` class with comprehensive properties including bonus features (Priority, IsOverdue) | 
 | **Display tasks sorted by date and project** | Dedicated `TaskQueryService` with LINQ-based sorting algorithms | 
 | **Add, edit, mark as done, and remove tasks** | Complete CRUD operations through `TaskManager` service | 
