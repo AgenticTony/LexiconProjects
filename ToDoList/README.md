@@ -10,11 +10,11 @@ A feature-rich console-based todo list application built in C# demonstrating sol
 
 | Requirement | Implementation | Status |
 |-------------|----------------|---------|
-| **Model a task with title, due date, status, and project** | `TodoTask` class with comprehensive properties including bonus features (Priority, IsOverdue) | ✅ **Exceeded** |
-| **Display tasks sorted by date and project** | Dedicated `TaskQueryService` with LINQ-based sorting algorithms | ✅ **Fulfilled** |
-| **Add, edit, mark as done, and remove tasks** | Complete CRUD operations through `TaskManager` service | ✅ **Fulfilled** |
-| **Text-based user interface** | Professional console UI with menu navigation, color coding, and input validation | ✅ **Exceeded** |
-| **Load and save task list to file** | JSON persistence with robust error handling via `FileHandler` | ✅ **Fulfilled** |
+| **Model a task with title, due date, status, and project** | `TodoTask` class with comprehensive properties including bonus features (Priority, IsOverdue) | 
+| **Display tasks sorted by date and project** | Dedicated `TaskQueryService` with LINQ-based sorting algorithms | 
+| **Add, edit, mark as done, and remove tasks** | Complete CRUD operations through `TaskManager` service | 
+| **Text-based user interface** | Professional console UI with menu navigation, color coding, and input validation | 
+| **Load and save task list to file** | JSON persistence with robust error handling via `FileHandler` |
 
 ### Bonus Features Implemented 🌟
 
